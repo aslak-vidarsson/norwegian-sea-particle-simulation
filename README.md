@@ -1,0 +1,1 @@
+The results can be found in **FINAL_DRAFT_PROJECT3.ipynb**. This was a two-week project in the course "Introduction to numerical calculations" at NTNU by Aslak Vidarsson Homme and Hallstein Olesønn Hagaseth, both students at NTNU.
